@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reusable", "Reusable\Reusable.csproj", "{599571C7-C4C4-4956-8BE7-C33D4FA141CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reusable.tests", "Reusable.tests\Reusable.tests.csproj", "{C3277941-B167-49B6-A240-7197B1B78E87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E4544465-88C0-4AA1-81A0-F2F718A76DE2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599571C7-C4C4-4956-8BE7-C33D4FA141CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599571C7-C4C4-4956-8BE7-C33D4FA141CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599571C7-C4C4-4956-8BE7-C33D4FA141CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599571C7-C4C4-4956-8BE7-C33D4FA141CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3277941-B167-49B6-A240-7197B1B78E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3277941-B167-49B6-A240-7197B1B78E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3277941-B167-49B6-A240-7197B1B78E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3277941-B167-49B6-A240-7197B1B78E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
